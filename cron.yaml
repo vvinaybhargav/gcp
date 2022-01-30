@@ -5,7 +5,7 @@ cron:
 
 - description: "daily summary job"
   url: /helloppp
-  schedule: every 24 hours  
+  schedule: every 1 mins  
 
 # - description: "daily summary job"
 #   url: /hello
