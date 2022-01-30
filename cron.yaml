@@ -1,0 +1,12 @@
+cron:
+- description: "daily summary job"
+  url: /hello
+  schedule: every 24 hours
+
+- description: "daily summary job"
+  url: /helloppp
+  schedule: every 24 hours  
+
+# - description: "daily summary job"
+#   url: /hello
+#   schedule: every 24 hours
